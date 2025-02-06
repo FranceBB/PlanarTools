@@ -5,16 +5,6 @@ PlanarTools - Avisynth plugin
 This plugin is a set of filters that offerd converting packed(interleaved)
 formats to planar formats and vice versa.
 
-Avisynth2.6 has these already as internal filters, but those are a little
-difficult to use, and optimization is insufficient.
-
-Requirement:
-=============
- - avisynth2.60 or later / avisynth+MT r2005 or greater
- - SSE2 capable CPU.
- - WindowsVista sp2 or later.
- - Visual C++ Redistributable Package for Visual Studio 2015.
-
 Syntax:
 =========
 
